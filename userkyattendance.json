@@ -6,15 +6,15 @@
         "Allowoffline": true
     },
     {
-        "device_id": 622aa489ce06dfde",
-        "key": "MONTHLYKEY23",
+        "device_id": 622aa489ce06dfdf",
+        "key": "MONTHLYKEY22",
         "expirydate": "23-08-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "1d0d7b3e7d089af7",
+        "device_id": "622aa489ce06dfde",
         "key": "1255",
-        "expirydate": "31-12-2026",
+        "expirydate": "23-08-2026",
         "Allowoffline": true
     },
     {
