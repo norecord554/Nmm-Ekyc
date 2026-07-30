@@ -154,5 +154,11 @@
         "key": "15DAYS805",
         "expirydate": "07-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6b961a0a9ff31a93",
+        "key": "15DAYSKEY96",
+        "expirydate": "13-08-2026",
+        "Allowoffline": false
     }
 ]
