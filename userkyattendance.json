@@ -179,4 +179,10 @@
         "expirydate": "13-08-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "3acdd06eaafce9ec",
+        "key": "15DAYSKEY97",
+        "expirydate": "13-08-2026",
+        "Allowoffline": false
+    }
 ]
