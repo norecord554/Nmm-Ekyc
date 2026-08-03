@@ -184,5 +184,11 @@
         "key": "15DAYSKEY97",
         "expirydate": "13-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "12cd766262f4f87f",
+        "key": "DDPAY",
+        "expirydate": "1P-08-2026",
+        "Allowoffline": false
     }
 ]
