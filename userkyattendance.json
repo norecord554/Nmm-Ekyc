@@ -38,7 +38,7 @@
     {
         "device_id": "9dbaae18dce9df6f",
         "key": "4DAYS08",
-        "expirydate": "24-09-2026",
+        "expirydate": "24-08-2026",
         "Allowoffline": true
     },
     {
@@ -57,6 +57,12 @@
         "device_id": "145b9f6decd61372",
         "key": "15DAYS32",
         "expirydate": "03-09-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "01ee54052eff7c7b",
+        "key": "DAYS32",
+        "expirydate": "25-08-2026",
         "Allowoffline": true
     }
 ]
