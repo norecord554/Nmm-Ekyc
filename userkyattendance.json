@@ -64,6 +64,12 @@
         "key": "DAYS32",
         "expirydate": "25-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "59493944c6712797",
+        "key": "30DAYS32",
+        "expirydate": "23-09-2026",
+        "Allowoffline": true
     }
 ]
     
